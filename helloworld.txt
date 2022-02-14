@@ -1,8 +1,8 @@
 Hello World, This is my first github repository to store the code. and this is a public repository where everyone on the internet can access my repository. 
 this is the ccode.
-line 1
 line 2
-function 1
+function 10
 function 2
 end of the code. 
 This repository has only one file. 
+This is after changes
